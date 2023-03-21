@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wlI1gRCyjwh+uG/YHgbyNCdQyn76PjM3g2PfnzOnAxs=",
+  "Source": "HiCare.Ubuntu.App",
+  "BasePath": "_content/HiCare.Ubuntu.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

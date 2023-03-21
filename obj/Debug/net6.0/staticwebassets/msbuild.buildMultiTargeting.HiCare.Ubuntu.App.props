@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HiCare.Ubuntu.App.props" />
+</Project>
